@@ -68,9 +68,10 @@ main {
 header {
   display: grid;
   justify-content: center;
+  gap: 0.875rem;
 }
 .img-container {
-  width: 100px;
+  width: 80px;
   display: inline-block;
   margin: 0 auto;
   border-radius: 50%;
@@ -99,15 +100,19 @@ btn:focus {
   color: var(--Dark_Grey);
 }
 .author-info {
-  text-align: center;
+  display: grid;
 }
 h1 {
-  font-size: 1.5rem;  font-weight: var(--font_normal);
+  font-size: 1.125rem;
+  font-weight: var(--font_normal);
   font-weight: var(--font_semibold);
 }
 .author-location {
+  font-size: 0.675rem;
   color: var(--Primary);
   font-weight: var(--font_semibold);
+  margin-top: 0.5em;
+  text-align: center;
 }
 .description {
   font-weight: var(--White);
