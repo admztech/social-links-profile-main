@@ -1,0 +1,116 @@
+/* # Colors
+
+### Primary
+
+- Green: hsl(75, 94%, 57%)
+
+### Neutral
+
+- White: hsl(0, 0%, 100%)
+- Grey: hsl(0, 0%, 20%)
+- Dark Grey: hsl(0, 0%, 12%)
+- Off Black: hsl(0, 0%, 8%)
+- Weights: 400, 600, 700 *
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+*/
+:root {
+  --Primary: hsl(75, 94%, 57%);
+
+  --White: hsl(0, 0%, 100%);
+
+  --Grey: hsl(0, 0%, 20%);
+
+  --Dark_Grey: hsl(0, 0%, 12%);
+
+  --Off_Black: hsl(0, 0%, 8%);
+
+  --font_normal: 400;
+  --font_semibold: 600;
+  --font_bold: 900;
+}
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: var(--font_normal);
+  background-color: var();
+  min-height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--Off_Black);
+  color: var(--White);
+  padding: 15px;
+}
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 25px;
+  background-color: var(--Dark_Grey);
+  align-items: center;
+  padding: 25px;
+  border-radius: 0.625em;
+  max-width: 400px;
+  width: 100%;
+}
+header {
+  display: grid;
+  justify-content: center;
+}
+.img-container {
+  width: 100px;
+  display: inline-block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1em;
+}
+.btn {
+  background-color: var(--Grey);
+  text-decoration: none;
+  color: var(--White);
+  font-weight: var(--font_semibold);
+  text-align: center;
+  padding: 0.9375em;
+  border-radius: 5px;
+  transition: background-color 0.8s;
+  cursor: pointer;
+}
+.btn:hover,
+btn:focus {
+  background-color: var(--Primary);
+
+  color: var(--Dark_Grey);
+}
+.author-info {
+  text-align: center;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: var(--font_normal);
+  font-weight: var(--font_semibold);
+}
+.author-location {
+  color: var(--Primary);
+  font-weight: var(--font_semibold);
+}
+.description {
+  font-weight: var(--White);
+  font-size: 0.875rem;
+}
