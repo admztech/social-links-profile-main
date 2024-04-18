@@ -9,8 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 -  [Solution](https://www.frontendmentor.io/solutions/sociallinksprofilemain-YaOdKJ9Ch6)
 - [Live](https://admztech.github.io/social-links-profile-main/)
 
-  <br>
-
+<hr>
 ## About The Project
 
 In this challenge, you'll be building out social link-sharing profile.
@@ -40,4 +39,4 @@ This project helped improve my understanding of How CSS flex-box is used for lay
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub" target="_blank">solution</a>. It definitely helps to find new ways to code and find easier solutions!
