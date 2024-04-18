@@ -102,8 +102,7 @@ btn:focus {
   text-align: center;
 }
 h1 {
-  font-size: 2rem;
-  font-weight: var(--font_normal);
+  font-size: 1.5rem;  font-weight: var(--font_normal);
   font-weight: var(--font_semibold);
 }
 .author-location {
