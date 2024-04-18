@@ -25,8 +25,7 @@ In this challenge, you'll be building out social link-sharing profile.
 
 ### What I learned
 
-This project help my improve undersand the How Css flex-box usgin for layout alignment and responsiveness.
-creating hover and focus states for interactive links elements.
+This project helped improve my understanding of How CSS flex-box is used for layout alignment and responsiveness. creating hover and focus states for interactive link elements.
 
 <!-- ### Useful resources
 
@@ -41,4 +40,4 @@ creating hover and focus states for interactive links elements.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/faq-accordion-card-tFrPJh5hD">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub">solution</a>. It definitely helps to find new ways to code and find easier solutions!
