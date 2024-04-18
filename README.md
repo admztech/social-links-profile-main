@@ -4,17 +4,11 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
-<br>
-<br>
-<br>
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-  <br>
-  <br>
   <br>
 
 ## About The Project
@@ -41,9 +35,9 @@ creating hover and focus states for interactive links elements.
 
 ## Author
 
-- Github - [Adnan](https://github.com/admztech)
-- Frontend Mentor - [@admztech](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [Adnan Manzoor](https://www.linkedin.com/in/admztech/)
+- Github - [admztech](https://github.com/admztech)
+- Frontend Mentor - [admztech](https://www.frontendmentor.io/profile/yourusername)
+- Linkedin - [admztech](https://www.linkedin.com/in/admztech/)
 
 ## Acknowledgments
 
