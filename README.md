@@ -39,4 +39,4 @@ This project helped improve my understanding of How CSS flex-box is used for lay
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="[https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub](https://www.frontendmentor.io/solutions/sociallinksprofilemain-9gH8F1uquV)" target="_blank">solution</a>. It helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sociallinksprofilemain-9gH8F1uquV" target="_blank">solution</a>. It helps to find new ways to code and find easier solutions!
